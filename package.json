@@ -7,5 +7,13 @@
     "test": "mocha"
   },
   "author": "Scott Ballantyne",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.152.0",
+    "klass": "^1.4.1",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
 }
