@@ -38,7 +38,9 @@ ProfileImage.plugin(Paperclip.plugins.mongoose, {
       name_format: '{{style}}.{{extension}}',
       storage: 'digital-ocean'  
       
-      // You can use env variables (DO_ENDPOINT, DO_BUCKET, DO_ACCESS_KEY_ID, DO_SECRET_ACCESS_KEY) or pass these options directly and it should work ok.
+      // You can use env variables (DO_ENDPOINT, DO_BUCKET, 
+      // DO_ACCESS_KEY_ID, DO_SECRET_ACCESS_KEY) or pass these 
+      // options directly and it should work ok.
       // do: {bucket: '', endpoint: '', key: '', secret: ''}
     
     }
