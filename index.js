@@ -43,6 +43,10 @@ var Storage = klass(function(options) {
 
 }).methods({
 
+  host: function() {
+    return '://'+config.endpoint + "/"; 
+  },
+
   stream: function(stream, key, next) {
     if (typeof stream == 'string') stream = fs.createReadStream(stream);
     var self = this;
