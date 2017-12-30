@@ -66,6 +66,16 @@ If you'd like to contribute a feature or bugfix: Thanks! To make sure your fix/f
 
 And once there are some contributors, then I would like to thank all of [the contributors](https://github.com/ballantyne/node-paperclip-digital-ocean/graphs/contributors)!
 
+Donations
+------------
+
+If you'd like to contribute with bitcoin or another cryptocurrency you can send coins to the addresses below:
+
+* ETH: 0xc3Cc87CFD19521e55c27832EdDb2cAFE2577F28E
+* BTC: 1CqyYz717jUwENBraXAVr8hZtnK8k23vPK
+* BCH: 129mMPtwjKce54FGE6rsRE4Ty2wFCKeQmr
+* LTC: LPvwrQjYzTfE8DJFmpdcpjNw9zeuhxhdE6
+
 License
 -------
 
